@@ -1,6 +1,6 @@
 # Mettle Anonymous (Reverse Mettle Allocation)
 
-A mod for Griftlands that help you quit mettle (reverse all mettle allocations).
+A mod for Griftlands that help you quit mettle (reverse all mettle allocations). This mod also makes the mettle upgrades in the compendium appear in the same order as in the upgrade screen.
 
 Version: 0.0.1
 Workshop ID: TBD
@@ -29,6 +29,8 @@ Here at Mettle Anonymous, we can help you quit by undoing some of the upgrades y
 While outside of an active run, navigate to the "Mettle" tab in the compendium. Clicking on an already upgraded tab will downgrade that particular mettle upgrade to one level before the tab (for example, clicking on the first tab of an upgrade will downgrade the mettle level to 0, the second tab will downgrade to level 1, and so on), while refunding all the mettle spent on the upgrades.
 
 After downgrading, it will have a marginal effect on any runs you've already started. However, any future runs will work as normal.
+
+Additionally, simply by having the mod installed and enabled will make the mettle upgrades in the compendium appear in the same order as in the upgrade screen.
 
 ## How to install?
 
