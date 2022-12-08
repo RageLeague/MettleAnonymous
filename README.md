@@ -3,7 +3,7 @@
 A mod for Griftlands that help you quit mettle (reverse all mettle allocations). This mod also makes the mettle upgrades in the compendium appear in the same order as in the upgrade screen.
 
 Version: 0.0.1
-Workshop ID: TBD
+Workshop ID: 2899268027
 Alias(Used for mod dependency): MettleAnonymous
 Github Link: https://github.com/RageLeague/MettleAnonymous
 
